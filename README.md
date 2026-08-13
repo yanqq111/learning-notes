@@ -40,5 +40,6 @@ int main()
 		}
 	}
 	printf("%d",money);
-}
-] 用C语言实现链表
+}e25
+] 用C语言实现
+
