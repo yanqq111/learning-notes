@@ -2,7 +2,6 @@
 my learning notes on C,   DataStructures ,python, AI
 
 **# 我的学习笔记
-
 ## 2026年8月（入学前）
 - 学完C语言程序设计
 - 正在用C语言学习数据结构
@@ -40,7 +39,7 @@ int main()
 		}
 	}
 	printf("%d",money);
-}e25
-] 用C语言实现<img width="660" height="394" alt="屏幕截图 2026-08-13 101954" src="https://github.com/user-attachments/assets/ddb90395-5734-4a3f-bb51-bee25ed66521" />
+}
+-]用C语言实现<img width="660" height="394" alt="屏幕截图 2026-08-13 101954" src="https://github.com/user-attachments/assets/ddb90395-5734-4a3f-bb51-bee25ed66521" />
 
 
