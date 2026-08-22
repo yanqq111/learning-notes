@@ -336,7 +336,8 @@ int findElem(Seqlist* L, int e)
 
 
 ## 代码记录
-```c#include<stdio.h>
+```c
+#include<stdio.h>
 #include<stdlib.h>
 
 typedef int elem;
